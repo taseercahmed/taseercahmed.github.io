@@ -1,6 +1,7 @@
 google.com, pub-9713369356009270, DIRECT, f08c47fec0942fa0
 facebook.com, 1605022847527213, DIRECT, c3e20eee3f780d68
 unityads.com, 6013153, DIRECT, 96cabb5fbdde37a7
+vungle.com, 697516e5a3f5d61ac7084e9a, DIRECT, c107d686becd2d77
 adagio.io, 1522, RESELLER
 
 adagio.io, 1575, RESELLER
