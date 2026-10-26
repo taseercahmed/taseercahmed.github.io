@@ -1,5 +1,6 @@
 google.com, pub-9713369356009270, DIRECT, f08c47fec0942fa0
 facebook.com, 1605022847527213, DIRECT, c3e20eee3f780d68
+facebook.com, 920879929484385, DIRECT, c3e20eee3f780d68
 inmobi.com, bdff9c15ecae4e30ae0f53235e69e2ff, DIRECT, 83e75a7ae333ca9d
 pangleglobal.com, 5034853, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
